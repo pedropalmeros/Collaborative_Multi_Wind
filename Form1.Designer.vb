@@ -22,10 +22,29 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Text = "Form1"
+        Btn_Anais = New Button()
+        SuspendLayout()
+        ' 
+        ' Btn_Anais
+        ' 
+        Btn_Anais.Location = New Point(159, 63)
+        Btn_Anais.Name = "Btn_Anais"
+        Btn_Anais.Size = New Size(94, 29)
+        Btn_Anais.TabIndex = 0
+        Btn_Anais.Text = "Anais "
+        Btn_Anais.UseVisualStyleBackColor = True
+        ' 
+        ' Form1
+        ' 
+        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleMode = AutoScaleMode.Font
+        ClientSize = New Size(800, 450)
+        Controls.Add(Btn_Anais)
+        Name = "Form1"
+        Text = "Form1"
+        ResumeLayout(False)
     End Sub
+
+    Friend WithEvents Btn_Anais As Button
 
 End Class
