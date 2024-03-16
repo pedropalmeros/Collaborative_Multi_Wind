@@ -1,5 +1,6 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
+
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,7 +23,6 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-
         Me.btn_alex = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -34,20 +34,6 @@ Partial Class Form1
         Me.btn_alex.TabIndex = 0
         Me.btn_alex.Text = "Alex"
         Me.btn_alex.UseVisualStyleBackColor = True
-        '
-        'Form1
-        '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(619, 364)
-        Me.Controls.Add(Me.btn_alex)
-        Me.Name = "Form1"
-        Me.Text = "Form1"
-        Me.ResumeLayout(False)
-
-    End Sub
-
-    Friend WithEvents btn_alex As Button
 
         btn_roberto = New Button()
         SuspendLayout()
@@ -74,7 +60,7 @@ Partial Class Form1
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
 
@@ -96,11 +82,23 @@ Partial Class Form1
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
+
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(833, 469)
+        Me.Controls.Add(Me.btn_alex)
+        Me.Name = "Form1"
+        Me.Text = "Form1"
+        Me.ResumeLayout(False)
+
     End Sub
 
+    Friend WithEvents btn_alex As Button
 
     Friend WithEvents btn_roberto As Button
-
 
     Friend WithEvents Btn_Pedro As Button
 
