@@ -1,0 +1,17 @@
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\bin\Debug\net6.0-windows\Collaborative_Multi_Wind.exe
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\bin\Debug\net6.0-windows\Collaborative_Multi_Wind.deps.json
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\bin\Debug\net6.0-windows\Collaborative_Multi_Wind.runtimeconfig.json
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\bin\Debug\net6.0-windows\Collaborative_Multi_Wind.dll
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\bin\Debug\net6.0-windows\Collaborative_Multi_Wind.pdb
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.Form1.resources
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.vbproj.GenerateResource.cache
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.AssemblyInfoInputs.cache
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.AssemblyInfo.vb
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.vbproj.CoreCompileInputs.cache
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.sourcelink.json
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.dll
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\refint\Collaborative_Multi_Wind.dll
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.pdb
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.genruntimeconfig.cache
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\ref\Collaborative_Multi_Wind.dll
