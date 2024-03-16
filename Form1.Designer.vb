@@ -40,10 +40,27 @@ Partial Class Form1
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
         Controls.Add(Btn_Pedro)
+        Btn_Anais = New Button()
+        SuspendLayout()
+        ' 
+        ' Btn_Anais
+        ' 
+        Btn_Anais.Location = New Point(159, 63)
+        Btn_Anais.Name = "Btn_Anais"
+        Btn_Anais.Size = New Size(94, 29)
+        Btn_Anais.TabIndex = 0
+        Btn_Anais.Text = "Anais "
+        Btn_Anais.UseVisualStyleBackColor = True
+
+        Controls.Add(Btn_Anais)
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
     End Sub
 
+
     Friend WithEvents Btn_Pedro As Button
+
+    Friend WithEvents Btn_Anais As Button
+
 End Class
