@@ -27,7 +27,7 @@ Partial Class Form1
         ' 
         ' Btn_Pedro
         ' 
-        Btn_Pedro.Location = New Point(588, 348)
+        Btn_Pedro.Location = New Point(677, 381)
         Btn_Pedro.Name = "Btn_Pedro"
         Btn_Pedro.Size = New Size(75, 23)
         Btn_Pedro.TabIndex = 0
