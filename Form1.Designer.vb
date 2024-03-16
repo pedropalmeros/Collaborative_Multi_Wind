@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+
         Me.btn_alex = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -47,4 +48,63 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents btn_alex As Button
+
+        btn_roberto = New Button()
+        SuspendLayout()
+        ' 
+        ' btn_roberto
+        ' 
+        btn_roberto.Location = New Point(125, 225)
+        btn_roberto.Name = "btn_roberto"
+        btn_roberto.Size = New Size(75, 23)
+        btn_roberto.TabIndex = 0
+        btn_roberto.Text = "Roberto"
+        btn_roberto.UseVisualStyleBackColor = True
+        Btn_Pedro = New Button()
+        SuspendLayout()
+        ' 
+        ' Btn_Pedro
+        ' 
+        Btn_Pedro.Location = New Point(677, 381)
+        Btn_Pedro.Name = "Btn_Pedro"
+        Btn_Pedro.Size = New Size(75, 23)
+        Btn_Pedro.TabIndex = 0
+        Btn_Pedro.Text = "Pedro"
+        Btn_Pedro.UseVisualStyleBackColor = True
+        ' 
+        ' Form1
+        ' 
+        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleMode = AutoScaleMode.Font
+        ClientSize = New Size(800, 450)
+
+        Controls.Add(btn_roberto)
+        Controls.Add(Btn_Pedro)
+        Btn_Anais = New Button()
+        SuspendLayout()
+        ' 
+        ' Btn_Anais
+        ' 
+        Btn_Anais.Location = New Point(159, 63)
+        Btn_Anais.Name = "Btn_Anais"
+        Btn_Anais.Size = New Size(94, 29)
+        Btn_Anais.TabIndex = 0
+        Btn_Anais.Text = "Anais "
+        Btn_Anais.UseVisualStyleBackColor = True
+
+        Controls.Add(Btn_Anais)
+        Name = "Form1"
+        Text = "Form1"
+        ResumeLayout(False)
+    End Sub
+
+
+    Friend WithEvents btn_roberto As Button
+
+
+    Friend WithEvents Btn_Pedro As Button
+
+    Friend WithEvents Btn_Anais As Button
+
+
 End Class
