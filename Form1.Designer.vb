@@ -23,20 +23,20 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.btn_alex = New System.Windows.Forms.Button()
-        Me.SuspendLayout()
-        '
-        'btn_alex
-        '
-        Me.btn_alex.Location = New System.Drawing.Point(532, 12)
-        Me.btn_alex.Name = "btn_alex"
-        Me.btn_alex.Size = New System.Drawing.Size(75, 23)
-        Me.btn_alex.TabIndex = 0
-        Me.btn_alex.Text = "Alex"
-        Me.btn_alex.UseVisualStyleBackColor = True
-
+        btn_alex = New Button()
         btn_roberto = New Button()
+        Btn_Pedro = New Button()
+        Btn_Anais = New Button()
         SuspendLayout()
+        ' 
+        ' btn_alex
+        ' 
+        btn_alex.Location = New Point(532, 12)
+        btn_alex.Name = "btn_alex"
+        btn_alex.Size = New Size(75, 23)
+        btn_alex.TabIndex = 0
+        btn_alex.Text = "Alex"
+        btn_alex.UseVisualStyleBackColor = True
         ' 
         ' btn_roberto
         ' 
@@ -46,8 +46,6 @@ Partial Class Form1
         btn_roberto.TabIndex = 0
         btn_roberto.Text = "Roberto"
         btn_roberto.UseVisualStyleBackColor = True
-        Btn_Pedro = New Button()
-        SuspendLayout()
         ' 
         ' Btn_Pedro
         ' 
@@ -58,17 +56,6 @@ Partial Class Form1
         Btn_Pedro.Text = "Pedro"
         Btn_Pedro.UseVisualStyleBackColor = True
         ' 
-        ' Form1
-        ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
-        AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
-
-        Controls.Add(btn_roberto)
-        Controls.Add(Btn_Pedro)
-        Btn_Anais = New Button()
-        SuspendLayout()
-        ' 
         ' Btn_Anais
         ' 
         Btn_Anais.Location = New Point(159, 63)
@@ -77,23 +64,19 @@ Partial Class Form1
         Btn_Anais.TabIndex = 0
         Btn_Anais.Text = "Anais "
         Btn_Anais.UseVisualStyleBackColor = True
-
+        ' 
+        ' Form1
+        ' 
+        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleMode = AutoScaleMode.Font
+        ClientSize = New Size(833, 469)
+        Controls.Add(btn_roberto)
+        Controls.Add(Btn_Pedro)
         Controls.Add(Btn_Anais)
+        Controls.Add(btn_alex)
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
-
-        '
-        'Form1
-        '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(833, 469)
-        Me.Controls.Add(Me.btn_alex)
-        Me.Name = "Form1"
-        Me.Text = "Form1"
-        Me.ResumeLayout(False)
-
     End Sub
 
     Friend WithEvents btn_alex As Button
