@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\anais_window.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:anais_window.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\anais_window.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:anais_window.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|c:\\users\\d dorantes\\source\\repo nuevo\\collaborative_multi_wind\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E700A7A-9A8B-4876-B7D6-738DC9E06995}|Collaborative_Multi_Wind.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +38,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anais_Window.vb",
+              "DocumentMoniker": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Anais_Window.vb",
+              "RelativeDocumentMoniker": "Anais_Window.vb",
+              "ToolTip": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Anais_Window.vb*",
+              "RelativeToolTip": "Anais_Window.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-20T04:28:52.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Anais_Window.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Anais_Window.vb",
               "RelativeDocumentMoniker": "Anais_Window.vb",
-              "ToolTip": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Anais_Window.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Anais_Window.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Anais_Window.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Anais_Window.vb [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T16:49:00.012Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
@@ -58,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T16:40:34.603Z",
               "EditorCaption": ""
