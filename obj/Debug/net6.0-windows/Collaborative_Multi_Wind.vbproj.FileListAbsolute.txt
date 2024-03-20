@@ -15,3 +15,4 @@ C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-
 C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.pdb
 C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.genruntimeconfig.cache
 C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\ref\Collaborative_Multi_Wind.dll
+C:\Users\D DORANTES\source\Repo nuevo\Collaborative_Multi_Wind\obj\Debug\net6.0-windows\Collaborative_Multi_Wind.Anais_Window.resources

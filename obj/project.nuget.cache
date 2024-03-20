@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NhpWPsHUKGzc/dtaotfp3EOHbWmNzT0iDiKsAQIPfO9dbsR6BUGnsfmEGOjNQjZJehRPZupgCiSlC1rRxClyAw==",
+  "dgSpecHash": "UnTCXHaRLRC2nKpXKZ/ki1EY4sKT8a5IhUnRjo/V7pf1q9UeZ7qSig0jY90o5981iDDKCJH25kNwnU4syl/+Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexy\\Repos GH\\Collaborative_Multi_Wind\\Collaborative_Multi_Wind.vbproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\D DORANTES\\source\\Repo nuevo\\Collaborative_Multi_Wind\\Collaborative_Multi_Wind.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D DORANTES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\D DORANTES\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\D DORANTES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\D DORANTES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
