@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Collaborative_Multi_Wind"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e598114e99ce49862352e39bd00e933273078d4d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63f8e2c1ebe53ac2ced497b764a052e4c56217bc"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Collaborative_Multi_Wind"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Collaborative_Multi_Wind"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
